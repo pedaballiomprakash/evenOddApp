@@ -1,0 +1,51 @@
+.app-container {
+  background: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 350ppx;
+  width: 400px;
+}
+
+.heading {
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.paragraph {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 300;
+  color: #334155;
+}
+.button-element {
+  background-color: #ffffff;
+  border: none;
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-weight: 300;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  font-size: 12px;
+  border-radius: 8px;
+  padding-right: 32px;
+  padding-left: 32px;
+}
+
+.paragraph-1 {
+  color: #334155;
+  font-family: 'Roboto';
+  font-size: 10px;
+  font-weight: 500;
+}
+
+.count-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
